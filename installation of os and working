@@ -1,0 +1,13 @@
+working 
+To Run the code open 
+1. install the os in the SD Card using Raspberrypi Imager
+2. connect the Raspberry pi to your TV/system using the HDMI/VGA to HDMI cable
+3. then the process of sucessfull installation and starting the Raspberry pi connect WIFI to your Raspberry pi
+4. then get the IP address of your Raspberry pi using VNC Server
+5. This all will be operated using Raspberry pi Configration in Raspberry pi
+6. Then install the needed the softwares like programming softwares, other updates to be installed for the raspberry pi
+7. you can run the Program by opening the code using any Programming languaguge
+8. You can continue using this or from your laptop by installing the VNC Viewer in your laptop
+9. you can get the IP address from your raspberry pi after WIFI connected
+10. And You need to install some of the Library for running the program
+
